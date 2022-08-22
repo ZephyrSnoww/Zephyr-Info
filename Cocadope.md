@@ -31,7 +31,7 @@
 
 ### Ref Sheet
 
-- Bagelcollie's sketch is good, we can work off of that
+- Bagelcollie's sketch looks great, we can work from that design
 - Not clothed
 
 ---
@@ -41,6 +41,9 @@
 ### Reference
 
 ![Character Inspiration](zeph%20inspiration.jpg)
+
+Bagel's sketch:
+
 ![Character Sketch (by bagelcollie :D)](sketch%20of%20zeph.jpg)
 
 (For fur pattern/deer type reference, I guess):
